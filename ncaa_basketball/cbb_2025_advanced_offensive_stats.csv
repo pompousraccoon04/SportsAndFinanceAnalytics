@@ -1,0 +1,365 @@
+School,O eFG%,O TO%,O OR%,O FT/FGA
+Abilene Christian,0.494,17.7,31.3,0.268
+Air Force,0.505,18.1,23.3,0.23
+Akron,0.551,14.7,32.5,0.184
+Alabama,0.564,14.8,36.2,0.3
+Alabama A&M,0.474,17.9,36.3,0.249
+Alabama State,0.476,11.2,29.0,0.209
+Albany (NY),0.495,13.4,32.3,0.215
+Alcorn State,0.454,17.0,33.6,0.222
+American,0.515,15.2,25.1,0.239
+Appalachian State,0.516,14.4,27.4,0.231
+Arizona,0.528,14.4,36.7,0.274
+Arizona State,0.519,16.6,25.9,0.253
+Arkansas,0.529,14.4,27.3,0.243
+Arkansas State,0.499,12.8,33.1,0.234
+Arkansas-Pine Bluff,0.513,17.7,26.7,0.188
+Army,0.522,13.1,27.8,0.168
+Auburn,0.554,11.2,35.7,0.24
+Austin Peay,0.487,12.9,26.8,0.211
+Ball State,0.528,15.0,28.3,0.345
+Baylor,0.525,13.8,36.1,0.234
+Bellarmine,0.549,16.0,21.6,0.201
+Belmont,0.556,13.5,27.3,0.191
+Bethune-Cookman,0.485,17.4,28.6,0.244
+Binghamton,0.533,17.8,27.7,0.23
+Boise State,0.536,14.8,32.9,0.301
+Boston College,0.494,15.2,29.1,0.226
+Boston University,0.508,17.6,32.7,0.195
+Bowling Green State,0.508,14.9,27.2,0.256
+Bradley,0.574,15.6,27.4,0.238
+Brigham Young,0.574,14.8,33.7,0.202
+Brown,0.53,14.7,30.4,0.181
+Bryant,0.519,13.6,34.3,0.211
+Bucknell,0.533,17.0,25.6,0.24
+Buffalo,0.487,17.6,24.1,0.248
+Butler,0.539,15.2,27.0,0.301
+Cal Poly,0.543,18.8,28.1,0.211
+Cal State Bakersfield,0.496,15.8,36.7,0.274
+Cal State Fullerton,0.453,18.8,28.1,0.314
+Cal State Northridge,0.523,16.1,36.3,0.251
+California,0.482,14.1,35.0,0.286
+California Baptist,0.49,14.4,33.3,0.224
+Campbell,0.51,13.9,25.1,0.242
+Canisius,0.519,17.1,18.4,0.183
+Central Arkansas,0.479,15.4,30.5,0.198
+Central Connecticut State,0.54,14.7,27.7,0.189
+Central Michigan,0.52,15.3,32.2,0.257
+Charleston Southern,0.492,16.4,31.8,0.306
+Charlotte,0.486,12.6,24.8,0.319
+Chattanooga,0.559,13.2,26.5,0.232
+Chicago State,0.44,16.7,23.0,0.192
+Cincinnati,0.518,13.0,32.8,0.162
+Clemson,0.547,13.6,33.7,0.212
+Cleveland State,0.503,14.3,35.3,0.221
+Coastal Carolina,0.501,16.2,29.0,0.239
+Colgate,0.543,15.0,24.3,0.169
+College of Charleston,0.518,14.2,26.6,0.246
+Colorado,0.513,18.9,28.6,0.281
+Colorado State,0.542,15.6,26.7,0.236
+Columbia,0.537,13.7,28.3,0.213
+Connecticut,0.552,14.7,34.5,0.247
+Coppin State,0.429,19.0,27.0,0.254
+Cornell,0.577,15.4,29.3,0.214
+Creighton,0.554,16.2,25.8,0.223
+Dartmouth,0.531,14.1,25.0,0.227
+Davidson,0.532,12.6,26.0,0.226
+Dayton,0.535,13.6,30.0,0.292
+Delaware,0.545,15.5,23.1,0.235
+Delaware State,0.499,14.4,34.9,0.23
+Denver,0.515,15.9,26.5,0.242
+DePaul,0.517,16.0,28.5,0.197
+Detroit Mercy,0.454,15.8,32.5,0.215
+Drake,0.558,16.1,36.5,0.3
+Drexel,0.523,16.3,33.3,0.162
+Duke,0.576,12.4,34.9,0.244
+Duquesne,0.497,15.0,33.8,0.188
+East Carolina,0.495,13.3,36.0,0.265
+East Tennessee State,0.504,13.9,36.2,0.215
+East Texas A&M,0.493,20.3,28.2,0.179
+Eastern Illinois,0.457,15.5,30.4,0.219
+Eastern Kentucky,0.499,11.8,34.0,0.205
+Eastern Michigan,0.526,16.5,29.6,0.257
+Eastern Washington,0.52,15.9,27.5,0.239
+Elon,0.507,15.8,38.3,0.29
+Evansville,0.497,15.3,23.4,0.208
+Fairfield,0.465,13.2,30.9,0.196
+FDU,0.509,14.5,27.7,0.236
+Florida,0.544,12.6,38.1,0.223
+Florida A&M,0.518,17.9,30.3,0.237
+Florida Atlantic,0.538,13.8,30.6,0.223
+Florida Gulf Coast,0.539,13.9,29.7,0.163
+Florida International,0.477,17.1,32.6,0.23
+Florida State,0.51,15.4,30.2,0.284
+Fordham,0.497,16.1,31.4,0.237
+Fresno State,0.464,15.7,26.0,0.248
+Furman,0.539,14.2,31.7,0.226
+Gardner-Webb,0.528,17.9,33.2,0.257
+George Mason,0.517,16.6,32.4,0.288
+George Washington,0.51,15.6,32.7,0.276
+Georgetown,0.504,15.4,32.8,0.179
+Georgia,0.519,16.3,36.8,0.277
+Georgia Southern,0.503,16.2,33.1,0.18
+Georgia State,0.506,14.8,33.2,0.22
+Georgia Tech,0.504,14.8,29.4,0.213
+Gonzaga,0.559,11.5,33.8,0.247
+Grambling,0.493,17.1,26.9,0.238
+Grand Canyon,0.505,16.0,32.4,0.325
+Green Bay,0.512,17.4,17.9,0.283
+Hampton,0.489,13.8,35.3,0.227
+Harvard,0.51,15.8,25.6,0.199
+Hawaii,0.51,17.7,32.0,0.293
+High Point,0.565,13.1,35.0,0.297
+Hofstra,0.502,15.5,24.1,0.196
+Holy Cross,0.534,15.9,23.9,0.157
+Houston,0.532,12.3,37.8,0.196
+Houston Christian,0.497,15.6,27.5,0.224
+Howard,0.558,18.0,28.8,0.275
+Idaho,0.532,15.5,30.4,0.259
+Idaho State,0.499,13.7,39.8,0.253
+Illinois,0.518,13.7,36.1,0.267
+Illinois State,0.581,14.1,25.1,0.233
+Illinois-Chicago,0.532,14.9,31.1,0.252
+Incarnate Word,0.538,14.7,35.2,0.176
+Indiana,0.515,14.6,31.7,0.243
+Indiana State,0.547,17.4,27.6,0.259
+Iona,0.463,17.5,38.9,0.194
+Iowa,0.571,12.3,25.2,0.191
+Iowa State,0.542,14.3,33.4,0.299
+IU Indy,0.511,13.7,32.0,0.257
+Jackson State,0.467,17.0,29.4,0.272
+Jacksonville,0.503,16.3,35.5,0.188
+Jacksonville State,0.52,13.0,31.9,0.24
+James Madison,0.522,14.1,31.7,0.224
+Kansas,0.532,14.5,30.5,0.163
+Kansas City,0.513,15.2,35.5,0.247
+Kansas State,0.519,15.4,29.9,0.186
+Kennesaw State,0.496,16.2,35.4,0.257
+Kent State,0.493,14.7,35.1,0.227
+Kentucky,0.564,12.9,29.4,0.248
+La Salle,0.469,12.8,31.5,0.211
+Lafayette,0.501,14.5,25.8,0.205
+Lamar,0.496,15.5,35.6,0.194
+Le Moyne,0.526,17.5,26.7,0.265
+Lehigh,0.515,13.8,21.8,0.199
+Liberty,0.579,13.8,21.5,0.184
+Lindenwood,0.478,15.7,30.2,0.241
+Lipscomb,0.55,12.4,25.9,0.226
+Little Rock,0.507,17.3,29.3,0.196
+Long Beach State,0.498,18.7,29.0,0.268
+Long Island University,0.488,16.7,32.8,0.19
+Longwood,0.524,14.8,32.8,0.333
+Louisiana,0.463,14.1,26.4,0.23
+Louisiana State,0.521,16.1,30.9,0.238
+Louisiana Tech,0.538,16.6,30.5,0.251
+Louisiana-Monroe,0.463,14.7,29.8,0.217
+Louisville,0.534,13.8,33.3,0.258
+Loyola (IL),0.535,15.7,29.9,0.227
+Loyola (MD),0.495,15.5,29.8,0.211
+Loyola Marymount,0.503,13.6,23.3,0.2
+Maine,0.528,14.4,23.9,0.204
+Manhattan,0.506,14.9,32.9,0.236
+Marist,0.519,15.8,29.8,0.166
+Marquette,0.517,11.3,31.1,0.193
+Marshall,0.508,14.6,32.5,0.238
+Maryland,0.555,12.9,32.4,0.239
+Maryland-Baltimore County,0.563,14.6,22.4,0.22
+Maryland-Eastern Shore,0.48,16.9,25.9,0.228
+Massachusetts,0.456,13.8,34.9,0.23
+Massachusetts-Lowell,0.553,15.3,27.8,0.282
+McNeese State,0.543,14.3,36.5,0.242
+Memphis,0.543,16.6,33.1,0.279
+Mercer,0.505,14.2,30.5,0.187
+Mercyhurst,0.486,14.6,23.7,0.248
+Merrimack,0.489,13.0,21.2,0.183
+Miami (FL),0.526,13.8,27.7,0.218
+Miami (OH),0.571,15.1,28.7,0.209
+Michigan,0.567,17.6,34.1,0.262
+Michigan State,0.518,14.5,36.8,0.306
+Middle Tennessee,0.517,13.7,31.6,0.224
+Milwaukee,0.516,15.9,41.6,0.264
+Minnesota,0.503,14.1,29.9,0.215
+Mississippi,0.516,11.2,25.1,0.256
+Mississippi State,0.52,12.9,34.8,0.22
+Mississippi Valley State,0.423,22.1,23.9,0.205
+Missouri,0.562,13.3,33.3,0.349
+Missouri State,0.517,17.7,32.2,0.23
+Monmouth,0.465,14.5,30.2,0.278
+Montana,0.567,14.3,24.4,0.234
+Montana State,0.523,13.4,22.5,0.236
+Morehead State,0.474,15.4,32.5,0.249
+Morgan State,0.523,15.5,34.9,0.253
+Mount St. Mary's,0.51,18.8,32.1,0.248
+Murray State,0.507,14.9,28.8,0.295
+Navy,0.485,13.8,31.3,0.219
+NC State,0.488,12.3,29.3,0.231
+Nebraska,0.526,15.0,26.6,0.278
+Nevada,0.553,14.5,29.0,0.254
+Nevada-Las Vegas,0.501,13.9,27.0,0.243
+New Hampshire,0.486,16.9,28.1,0.181
+New Mexico,0.522,13.6,32.2,0.26
+New Mexico State,0.48,14.4,32.7,0.223
+New Orleans,0.462,16.2,30.6,0.229
+Niagara,0.523,16.6,23.8,0.222
+Nicholls State,0.493,12.6,31.3,0.216
+NJIT,0.458,15.6,29.2,0.197
+Norfolk State,0.541,15.5,31.4,0.303
+North Alabama,0.517,11.1,34.1,0.224
+North Carolina,0.535,13.3,29.1,0.257
+North Carolina A&T,0.47,12.8,27.1,0.215
+North Carolina Central,0.524,15.2,38.4,0.249
+North Dakota,0.499,13.4,35.2,0.236
+North Dakota State,0.586,13.5,27.9,0.253
+North Florida,0.54,12.9,29.3,0.168
+North Texas,0.518,14.9,34.1,0.281
+Northeastern,0.512,16.3,31.9,0.195
+Northern Arizona,0.519,12.4,33.7,0.197
+Northern Colorado,0.583,13.7,26.0,0.236
+Northern Illinois,0.492,14.0,19.8,0.217
+Northern Iowa,0.558,14.1,26.2,0.256
+Northern Kentucky,0.499,15.2,31.3,0.207
+Northwestern,0.498,12.6,32.3,0.224
+Northwestern State,0.487,17.0,33.8,0.229
+Notre Dame,0.526,14.3,30.7,0.225
+Oakland,0.49,15.1,35.3,0.213
+Ohio,0.545,13.8,24.3,0.256
+Ohio State,0.534,13.8,28.8,0.258
+Oklahoma,0.543,15.8,27.5,0.311
+Oklahoma State,0.484,16.3,31.9,0.309
+Old Dominion,0.451,14.0,36.6,0.224
+Omaha,0.533,14.1,29.0,0.268
+Oral Roberts,0.525,15.1,25.5,0.267
+Oregon,0.522,13.9,30.5,0.258
+Oregon State,0.55,14.8,32.8,0.298
+Pacific,0.493,16.3,29.7,0.227
+Penn State,0.538,15.1,29.6,0.29
+Pennsylvania,0.491,14.1,27.3,0.196
+Pepperdine,0.499,14.4,28.3,0.227
+Pittsburgh,0.532,12.8,28.9,0.27
+Portland,0.506,16.4,23.6,0.254
+Portland State,0.533,15.7,34.4,0.203
+Prairie View,0.491,15.1,24.4,0.247
+Presbyterian,0.533,13.9,31.0,0.228
+Princeton,0.515,13.4,28.5,0.177
+Providence,0.528,16.2,33.0,0.212
+Purdue,0.564,14.1,30.4,0.262
+Purdue Fort Wayne,0.561,11.7,22.9,0.215
+Queens (NC),0.529,15.7,31.2,0.237
+Quinnipiac,0.482,15.5,33.7,0.233
+Radford,0.521,14.9,35.0,0.3
+Rhode Island,0.529,15.8,28.6,0.308
+Rice,0.495,15.1,33.9,0.302
+Richmond,0.491,14.0,20.3,0.258
+Rider,0.465,15.2,31.5,0.221
+Robert Morris,0.507,16.1,34.9,0.279
+Rutgers,0.509,13.6,31.1,0.267
+Sacramento State,0.511,17.7,28.0,0.215
+Sacred Heart,0.521,14.8,31.1,0.201
+Saint Francis (PA),0.539,16.9,26.9,0.165
+Saint Joseph's,0.526,14.9,29.3,0.229
+Saint Louis,0.556,16.8,24.3,0.213
+Saint Mary's (CA),0.518,12.4,39.7,0.212
+Saint Peter's,0.466,17.6,39.5,0.246
+Sam Houston,0.518,15.9,31.7,0.248
+Samford,0.546,15.4,35.5,0.191
+San Diego,0.451,16.1,29.9,0.232
+San Diego State,0.506,14.2,31.7,0.204
+San Francisco,0.533,15.1,28.9,0.254
+San Jose State,0.518,14.2,28.7,0.228
+Santa Clara,0.557,14.7,33.5,0.206
+Seattle,0.487,14.6,30.5,0.299
+Seton Hall,0.448,16.5,32.3,0.233
+Siena,0.501,15.5,28.6,0.281
+South Alabama,0.521,12.3,28.1,0.224
+South Carolina,0.493,16.3,30.9,0.31
+South Carolina State,0.53,16.7,35.7,0.296
+South Carolina Upstate,0.518,16.6,25.8,0.211
+South Dakota,0.517,11.2,31.6,0.313
+South Dakota State,0.553,15.0,34.2,0.223
+South Florida,0.512,14.3,28.4,0.25
+Southeast Missouri State,0.522,13.3,25.7,0.201
+Southeastern Louisiana,0.508,15.2,31.3,0.257
+Southern,0.496,14.8,36.6,0.243
+Southern California,0.544,15.0,26.9,0.266
+Southern Illinois,0.516,16.2,31.0,0.227
+SIU Edwardsville,0.497,13.6,31.5,0.209
+Southern Indiana,0.49,14.7,29.3,0.226
+Southern Methodist,0.549,14.3,38.1,0.265
+Southern Mississippi,0.489,17.1,28.4,0.235
+Southern Utah,0.485,17.7,32.6,0.258
+St. Bonaventure,0.514,14.3,28.8,0.228
+St. John's (NY),0.495,12.9,37.8,0.21
+St. Thomas,0.588,12.5,22.7,0.263
+Stanford,0.501,13.4,31.6,0.25
+Stephen F. Austin,0.482,19.5,37.3,0.211
+Stetson,0.506,16.4,25.4,0.252
+Stonehill,0.515,16.0,26.9,0.225
+Stony Brook,0.476,15.5,30.3,0.238
+Syracuse,0.504,15.1,31.1,0.225
+Tarleton State,0.476,22.8,30.9,0.32
+TCU,0.476,14.7,32.3,0.216
+Temple,0.507,13.5,31.7,0.322
+Tennessee,0.528,13.9,36.3,0.244
+Tennessee State,0.518,17.9,37.3,0.271
+Tennessee Tech,0.516,14.8,24.2,0.205
+Tennessee-Martin,0.495,15.9,35.0,0.248
+Texas,0.531,12.4,30.3,0.27
+Texas A&M,0.479,14.8,41.8,0.275
+Texas A&M-Corpus Christi,0.535,14.9,34.0,0.227
+Texas Southern,0.479,16.1,30.0,0.212
+Texas State,0.517,15.4,35.8,0.269
+Texas Tech,0.563,13.5,34.8,0.225
+Texas-Rio Grande Valley,0.525,15.7,32.2,0.159
+The Citadel,0.495,16.0,29.0,0.214
+Toledo,0.507,11.5,30.3,0.252
+Towson,0.476,12.2,34.7,0.191
+Troy,0.512,17.4,40.2,0.257
+Tulane,0.512,14.0,27.9,0.278
+Tulsa,0.498,14.7,28.2,0.217
+UAB,0.515,11.9,39.8,0.235
+UC Davis,0.472,17.0,29.5,0.281
+UC Irvine,0.504,16.3,28.3,0.3
+UC Riverside,0.496,13.9,34.2,0.195
+UC San Diego,0.559,11.6,27.4,0.245
+UC Santa Barbara,0.56,16.4,28.1,0.219
+UCF,0.49,14.2,31.9,0.278
+UCLA,0.529,13.6,32.1,0.236
+UNC Asheville,0.54,12.3,31.8,0.253
+UNC Greensboro,0.524,13.3,32.1,0.2
+UNC Wilmington,0.532,13.7,37.2,0.274
+UT Arlington,0.525,16.5,32.6,0.258
+Utah,0.526,15.4,34.0,0.23
+Utah State,0.574,13.6,34.5,0.267
+Utah Tech,0.495,15.7,29.1,0.224
+Utah Valley,0.52,14.7,31.3,0.266
+UTEP,0.518,15.5,24.9,0.261
+UTSA,0.5,13.7,29.1,0.232
+Valparaiso,0.494,12.5,28.2,0.283
+Vanderbilt,0.522,12.3,32.1,0.236
+Vermont,0.501,15.1,26.7,0.217
+Villanova,0.554,13.6,31.3,0.219
+Virginia,0.527,14.8,23.0,0.201
+Virginia Commonwealth,0.528,14.1,36.7,0.237
+VMI,0.5,14.7,28.4,0.257
+Virginia Tech,0.511,16.7,32.0,0.224
+Wagner,0.478,15.9,32.8,0.213
+Wake Forest,0.503,15.0,26.8,0.279
+Washington,0.512,15.3,28.6,0.248
+Washington State,0.562,18.2,31.4,0.23
+Weber State,0.527,14.7,26.4,0.236
+West Georgia,0.485,14.7,26.1,0.194
+West Virginia,0.5,14.0,25.7,0.191
+Western Carolina,0.468,17.4,27.9,0.208
+Western Illinois,0.505,15.8,30.2,0.188
+Western Kentucky,0.497,13.6,23.9,0.222
+Western Michigan,0.468,13.4,35.2,0.21
+Wichita State,0.496,14.2,32.1,0.257
+William & Mary,0.547,15.6,27.5,0.254
+Winthrop,0.532,14.9,33.6,0.327
+Wisconsin,0.555,12.9,28.0,0.287
+Wofford,0.529,14.4,36.8,0.185
+Wright State,0.555,15.4,28.9,0.197
+Wyoming,0.513,17.1,30.2,0.204
+Xavier,0.532,14.9,25.6,0.305
+Yale,0.563,13.0,34.7,0.234
+Youngstown State,0.513,15.0,31.0,0.261
