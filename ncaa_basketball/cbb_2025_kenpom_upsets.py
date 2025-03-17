@@ -101,8 +101,8 @@ def identify_upsets(df, region):
     # 5 vs 12
     five = region_df_single[region_df_single["Seed"] == 5].iloc[0] if not region_df_single[region_df_single["Seed"] == 5].empty else None
     twelve = region_df_single[region_df_single["Seed"] == 12].iloc[0] if not region_df_single[region_df_single["Seed"] == 12].empty else None
-    if five is not None and twelve is not None and ((five.RankAdjOE >= 60 or five.RankAdjDE >= 60) or (twelve.RankAdjEM <= 60 and five.RankAdjEM >= 20)):
-        criteria = f"5-seed RankAdjOE ({five.RankAdjOE}) or RankAdjDE ({five.RankAdjDE}) ≥ 60 OR (12-seed RankAdjEM ({twelve.RankAdjEM}) ≤ 60 AND 5-seed RankAdjEM ({five.RankAdjEM}) ≥ 20)"
+    if five is not None and twelve is not None and ((five.RankAdjOE >= 60 or five.RankAdjDE >= 60) or (twelve.RankAdjEM <= 60 and five.RankAdjEM <= 20)):
+        criteria = f"5-seed RankAdjOE ({five.RankAdjOE}) or RankAdjDE ({five.RankAdjDE}) ≥ 60 OR (12-seed RankAdjEM ({twelve.RankAdjEM}) ≤ 60 AND 5-seed RankAdjEM ({five.RankAdjEM}) ≤ 20)"
         upsets.append((f"{five.School} (5) vs {twelve.School} (12)", "5 vs 12", five.School, twelve.School, criteria,
                        five.RankAdjOE, five.RankAdjDE, five.RankAdjEM, twelve.RankAdjOE, twelve.RankAdjDE, twelve.RankAdjEM))
 
