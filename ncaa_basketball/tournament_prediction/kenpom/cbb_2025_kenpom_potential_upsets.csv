@@ -1,0 +1,6 @@
+Matchup,Upset_Type,Higher_Seed,Lower_Seed,Criteria,Higher_Seed_RankAdjOE,Higher_Seed_RankAdjDE,Higher_Seed_RankAdjEM,Lower_Seed_RankAdjOE,Lower_Seed_RankAdjDE,Lower_Seed_RankAdjEM
+St. John's (2) vs Omaha (15),2 vs 15,St. John's,Omaha,2-seed RankAdjOE (65) or RankAdjDE (1) > 50,65,1,11,96,252,156
+Memphis (5) vs Colorado State (12),5 vs 12,Memphis,Colorado State,5-seed RankAdjOE (72) or RankAdjDE (40) ≥ 60 OR (12-seed RankAdjEM (42) ≤ 60 AND 5-seed RankAdjEM (51) ≥ 20),72,40,51,43,49,42
+Purdue (4) vs High Point (13),4 vs 13,Purdue,High Point,4-seed RankAdjOE (7) or RankAdjDE (63) > 40 AND 13-seed RankAdjOE (25) or RankAdjDE (227) ≤ 50,7,63,19,25,227,84
+Iowa State (3) vs Lipscomb (14),3 vs 14,Iowa State,Lipscomb,14-seed RankAdjOE (75) - RankAdjDE (100) ≤ 40,20,9,10,75,100,83
+Michigan (5) vs UC San Diego (12),5 vs 12,Michigan,UC San Diego,5-seed RankAdjOE (47) or RankAdjDE (14) ≥ 60 OR (12-seed RankAdjEM (36) ≤ 60 AND 5-seed RankAdjEM (25) ≥ 20),47,14,25,57,30,36
